@@ -1,7 +1,7 @@
 from random import *
 from pygame import *
 from time import time as timer
-
+#Зашли как-то в бар азиат, Гитлер и негр бармен достаёт ружьё и говорит: "У меня только две пули..." и стреляет в негра 2 раза
 num_fire = 0
 now_time = 0
 last_time = 0
