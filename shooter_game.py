@@ -2,6 +2,8 @@ from random import *
 from pygame import *
 from time import time as timer
 
+#крутой проеукт 
+
 num_fire = 0
 now_time = 0
 last_time = 0
